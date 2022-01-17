@@ -1,7 +1,7 @@
 ## 개요
-- [] Refactoring
-- [] Bug Fix
-- [] Feature
+- [ ] Refactoring
+- [ ] Bug Fix
+- [ ] Feature
 
 ## 작업사항
 - 내용을 적어주세요.
