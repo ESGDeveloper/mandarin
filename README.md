@@ -56,7 +56,7 @@ $ npm run test:cov
 
 <br /><br />
 
-[ESGDeveloper](https://github.com/ESGDeveloper) and [ryunvin](https://github.com/ryunvin) is a Software Engineer.<br /><br />
+[ESGDeveloper](https://github.com/ESGDeveloper) and [rvdingDev](https://github.com/rvdingDev) is a Software Engineer.<br /><br />
 
 ## License
 
